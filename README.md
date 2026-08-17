@@ -59,12 +59,12 @@ Install **Nmap**:
 
 Clone the repository:
 ```
-git clone https://github.com/ZiloxOff/Velaris-Tool.git
+git clone https://github.com/ZiloxOff/Velaris-Nmap.git
 ```
 
 Enter the project folder:
 ```
-cd Velaris-Tool
+cd Velaris-Nmap
 ```
 
 Run the setup:
